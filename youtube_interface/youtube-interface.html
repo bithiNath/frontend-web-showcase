@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Youtube Interface</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="left_section">
+        <img class="hamburger-menu" src="logo/hamburger-menu.svg" alt="" />
+        <img class="youtube-logo" src="logo/youtube-logo.svg" alt="" />
+      </div>
+
+      <div class="middle_section">
+        <input class="search_bar" type="text" placeholder="Search" />
+        <button class="search_button">
+          <img class="search_icon" src="logo/search.svg" alt="" />
+          <div class="tooltip">Search</div>
+        </button>
+        <button class="voice_search_button">
+          <img
+            class="voice_search_icon"
+            src="logo/voice-search-icon.svg"
+            alt=""
+          />
+          <div class="tooltip">Search with your voice</div>
+        </button>
+      </div>
+      <div class="right_section">
+        <button class="create_container">
+          <span class="plus">+</span><span class="bold_create">Create</span>
+        </button>
+
+        <div class="notification_icon_container">
+          <img class="notifications_icon" src="logo/notifications.svg" alt="" />
+          <div class="notification_count">3</div>
+          <div class="tooltip">Notification</div>
+        </div>
+
+        <img class="current_user_pic" src="logo/profile pic.jpg" alt="" />
+      </div>
+    </header>
+    <nav class="categories">
+      <button>All</button>
+      <button>Web Development</button>
+      <button>Music</button>
+      <button>Mixes</button>
+      <button>Skills</button>
+      <button>Computers</button>
+      <button>Podcastes</button>
+      <button>Live</button>
+      <button>Python</button>
+      <button>Asian Music</button>
+      <button>Dance Pop</button>
+      <button>playlist</button>
+      <button>Rhythms</button>
+      <button>News</button>
+    </nav>
+    <nav class="sidebar">
+      <div class="sidebar_link">
+        <img src="sidebar/home.svg" alt="" />
+        <div>Home</div>
+      </div>
+      <div class="sidebar_link">
+        <img src="sidebar/explore.svg" alt="" />
+        <div>Explore</div>
+      </div>
+      <div class="sidebar_link">
+        <img src="sidebar/subscriptions.svg" alt="" />
+        <div>Subscriptions</div>
+      </div>
+      <div class="sidebar_link">
+        <img src="sidebar/originals.svg" alt="" />
+        <div>Originals</div>
+      </div>
+
+      <div class="sidebar_link">
+        <img src="sidebar/library.svg" alt="" />
+        <div>Library</div>
+      </div>
+    </nav>
+    <main>
+      <section class="video_grid">
+        <div class="video_preview">
+          <div class="thumbnail_row">
+            <img class="thumbnail_image" src="image/thumbnail 1.avif" alt="" />
+            <div class="video_time">14:20</div>
+          </div>
+          <div class="video_info_grid">
+            <div class="channel_pic">
+              <img class="profile_pic" src="Image/BBC.jpg" alt="" />
+            </div>
+            <div class="video_info">
+              <p class="video_title">
+                Which country has the best education in the world?
+              </p>
+              <p class="video_author">BBC News</p>
+
+              <p class="video_status">3.4M views · 6 months ago</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="video_preview">
+          <div class="thumbnail_row">
+            <img class="thumbnail_image" src="image/thumbnail 2.avif" alt="" />
+            <div class="video_time">14:20</div>
+          </div>
+          <div class="video_info_grid">
+            <div class="channel_pic">
+              <img class="profile_pic" src="Image/BBC.jpg" alt="" />
+            </div>
+            <div class="video_info">
+              <p class="video_title">
+                Record warm seas bring extraordinary new species to UK waters
+              </p>
+              <p class="video_author">BBC News</p>
+
+              <p class="video_status">19M views · 4 years ago</p>
+            </div>
+          </div>
+        </div>
+        <div class="video_preview">
+          <div class="thumbnail_row">
+            <img class="thumbnail_image" src="image/thumbnail 3.avif" alt="" />
+            <div class="video_time">14:20</div>
+          </div>
+          <div class="video_info_grid">
+            <div class="channel_pic">
+              <img class="profile_pic" src="Image/Channel 3.jpg" alt="" />
+            </div>
+            <div class="video_info">
+              <p class="video_title">
+                Relaxing music Relieves stress, Anxiety and Depression 🌿
+              </p>
+              <p class="video_author">Marqu</p>
+
+              <p class="video_status">3.4M views · 6 months ago</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="video_preview">
+          <div class="thumbnail_row">
+            <img class="thumbnail_image" src="image/thumbnail 4.avif" alt="" />
+            <div class="video_time">14:20</div>
+          </div>
+          <div class="video_info_grid">
+            <div class="channel_pic">
+              <img class="profile_pic" src="Image/Channel 4.jpg" alt="" />
+            </div>
+            <div class="video_info">
+              <p class="video_title">Try Not To Laugh Challenge #9</p>
+              <p class="video_author">Markiplier</p>
+
+              <p class="video_status">19M views · 4 years ago</p>
+            </div>
+          </div>
+        </div>
+        <div class="video_preview">
+          <div class="thumbnail_row">
+            <img class="thumbnail_image" src="image/thumbnail 5.avif" alt="" />
+            <div class="video_time">14:20</div>
+          </div>
+          <div class="video_info_grid">
+            <div class="channel_pic">
+              <img class="profile_pic" src="Image/channel 5.jpg" alt="" />
+            </div>
+            <div class="video_info">
+              <p class="video_title">Funniest Animal Videos Ever (Part 3)</p>
+              <p class="video_author">Marques Brownlee</p>
+
+              <p class="video_status">3.4M views · 6 months ago</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="video_preview">
+          <div class="thumbnail_row">
+            <img class="thumbnail_image" src="image/thumbnail 6.avif" alt="" />
+            <div class="video_time">14:20</div>
+          </div>
+          <div class="video_info_grid">
+            <div class="channel_pic">
+              <img class="profile_pic" src="Image/channel 6.jpg" alt="" />
+            </div>
+            <div class="video_info">
+              <p class="video_title">Sia - Unstoppable (Lyrics)</p>
+              <p class="video_author">Mark jlier</p>
+
+              <p class="video_status">19M views · 4 years ago</p>
+            </div>
+          </div>
+        </div>
+        <div class="video_preview">
+          <div class="thumbnail_row">
+            <img class="thumbnail_image" src="image/thumbnail 7.avif" alt="" />
+            <div class="video_time">14:20</div>
+          </div>
+          <div class="video_info_grid">
+            <div class="channel_pic">
+              <img class="profile_pic" src="Image/Channel 7.jpg" alt="" />
+            </div>
+            <div class="video_info">
+              <p class="video_title">Sitar for mental health and relaxation</p>
+              <p class="video_author">ABC Haq</p>
+
+              <p class="video_status">4M views · 1 year ago</p>
+            </div>
+          </div>
+        </div>
+        <div class="video_preview">
+          <div class="thumbnail_row">
+            <img class="thumbnail_image" src="image/thumbnail 8.avif" alt="" />
+            <div class="video_time">14:20</div>
+          </div>
+          <div class="video_info_grid">
+            <div class="channel_pic">
+              <img class="profile_pic" src="Image/Channel 8.jpg" alt="" />
+            </div>
+            <div class="video_info">
+              <p class="video_title">
+                Learn English with A BUG'S LIFE — Disney Pixar
+              </p>
+              <p class="video_author">Learn English With TV Series</p>
+
+              <p class="video_status">4M views · 11 months ago</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
