@@ -1,6 +1,6 @@
 # Frontend Web Development Showcase
 
-Welcome to my frontend web development portfolio! This repository serves as a centralized showcase of 5 diverse web projects built using **HTML5, CSS3, and JavaScript**. 
+Welcome to my frontend web development portfolio! This repository serves as a centralized showcase of 4 diverse web projects built using **HTML5, CSS3, and JavaScript**. 
 
 These projects demonstrate my strong foundational skills in creating responsive layouts, structuring clean user interfaces, and implementing programming logic via web elements.
 
