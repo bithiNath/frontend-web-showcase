@@ -14,7 +14,6 @@ These projects demonstrate my strong foundational skills in creating responsive 
 | **2** | **E-Commerce Website** | An online shopping storefront layout complete with product listing displays and navigation. | HTML5, CSS Grid, Media Queries | [View Live Demo](https://bithinath.github.io/frontend-web-showcase/ecommerce-website/) |
 | **3** | **Admin Dashboard** | A static analytics panel layout designed to practice grid positioning, data card UI design, and data table structuring. | HTML5, Advanced CSS, JavaScript | [View Live Demo](https://bithinath.github.io/frontend-web-showcase/responsive-admin-dashboard/) |
 | **4** | **YouTube Interface Clone** | A pixel-perfect frontend clone replicating the iconic video-sharing platform's layout and sidebar mechanics. | HTML5, Semantic CSS | [View Live Demo](https://bithinath.github.io/frontend-web-showcase/youtube_interface/) |
-| **5** | **Rock-Paper-Scissors Game** | An interactive, dynamic browser-based game implementing game logic, score tracking, and conditional programming. | HTML5, CSS3, JavaScript (DOM) | [View Live Demo](https://bithinath.github.io/frontend-web-showcase/rock-paper-scissors-game/) |
 
 ---
 
