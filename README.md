@@ -16,9 +16,12 @@ These projects demonstrate my strong foundational skills in creating responsive 
 | **4** | **YouTube Interface Clone** | A pixel-perfect frontend clone replicating the iconic video-sharing platform's layout and sidebar mechanics. | HTML5, Semantic CSS | [View Live Demo](https://bithinath.github.io/frontend-web-showcase/youtube_interface/) |
 
 ---
-
+https://github.com/bithiNath/frontend-web-showcase/blob/main/ecommerce-website/video/ecommerce_site_1.mp4
 
 <h2>🎥 Project Walkthrough Videos</h2>
+
+<video src="./ফোল্ডারের_নাম/ভিডিওর_নাম.mp4" width="100%" controls></video>
+
 
 <h3>1. Travel Website Design</h3>
 
