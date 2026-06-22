@@ -17,8 +17,42 @@ These projects demonstrate my strong foundational skills in creating responsive 
 
 ---
 
+
+<h2>🎥 Project Walkthrough Videos</h2>
+
+<h3>1. Travel Website Design</h3>
+
+<video width="800" controls>
+  <source src="travel-website-design/video/traveling_site_1.mp4" type="video/mp4">
+  Your browser does not support video.
+</video>
+
+
+<h3>2. E-Commerce Website</h3>
+
+<video width="800" controls>
+  <source src="ecommerce-website/video/ecommerce_site_1.mp4" type="video/mp4">
+  Your browser does not support video.
+</video>
+
+
+<h3>3. Admin Dashboard</h3>
+
+<video width="800" controls>
+  <source src="responsive-admin-dashboard/video/admin_dashboard_1.mp4" type="video/mp4">
+  Your browser does not support video.
+</video>
+
+
+<h3>4. YouTube Interface Clone</h3>
+
+<video width="800" controls>
+  <source src="youtube_interface/video/youtube_1.mp4" type="video/mp4">
+  Your browser does not support video.
+</video>
+
 ## 🛠️ Key Skills Demonstrated
-* **Semantic HTML:** Writing accessible, SEO-friendly, and well-structured code.
+* **Semantic HTML:** Writing accessible, and well-structured code.
 * **Modern CSS Layouts:** Mastering Flexbox, CSS Grid, and fluid responsive design across desktop, tablet, and mobile views.
 * **JavaScript Logic:** Applying fundamental programming concepts.
 * **Data Visualization Prep:** Building UI architectures designed to host analytical charts and reporting metrics.
