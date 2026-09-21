@@ -4,7 +4,7 @@ Welcome to my frontend web development portfolio! This repository serves as a ce
 
 These projects demonstrate my strong foundational skills in creating responsive layouts, structuring clean user interfaces, and implementing programming logic via web elements.
 
----
+
 
 ## 🚀 Project Catalog & Live Demos
 
@@ -15,7 +15,6 @@ These projects demonstrate my strong foundational skills in creating responsive 
 | **3** | **Admin Dashboard** | A static analytics panel layout designed to practice grid positioning, data card UI design, and data table structuring. | HTML5, Advanced CSS, JavaScript | [View Live Demo](https://bithinath.github.io/frontend-web-showcase/responsive-admin-dashboard/) |
 | **4** | **YouTube Interface Clone** | A pixel-perfect frontend clone replicating the iconic video-sharing platform's layout and sidebar mechanics. | HTML5, Semantic CSS | [View Live Demo](https://bithinath.github.io/frontend-web-showcase/youtube_interface/) |
 
----
 
 
 <h2>🎥 Project Walkthrough Videos</h2>
